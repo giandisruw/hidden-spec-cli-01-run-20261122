@@ -1,7 +1,13 @@
+[![make.fun · hidden-spec-cli-01-run-20261122](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/giandisruw/hidden-spec-cli-01-run-20261122/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/giandisruw/hidden-spec-cli-01-run-20261122/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+
 # mend
 
 One patch tool for every AI edit format: a Node 22 CLI (standard library only) that applies
 an AI-written edit to a tree of text files, changing every file or none.
+
+Entry for the make.fun bounty [Build mend, one patch tool for every AI edit format](https://make.fun/bounty/hidden-spec-cli-01-run-20261122).
 
     node main.ts [--format=NAME] [--check] [--strict] [PATCH]
 
@@ -23,3 +29,5 @@ Run the kit's practice set from the kit's starter directory (it runs this `main.
     node check.ts ../program/generator/practice.json
 
 It prints every check that differs from the house reference, then the practice score.
+
+Practice: 100/100, score 1000.
